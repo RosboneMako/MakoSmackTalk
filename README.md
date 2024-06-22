@@ -1,5 +1,6 @@
 # Mako Smack Talk
 * A demo JUCE VST Envelope Filter
+* Sample JUCE code.
 * Tested on Windows only.
 * Written in Visual C++ 2022.
 * Written for new programmers, not complicated.
