@@ -1,4 +1,4 @@
-# Mako SmackTalk
+# Mako Smack Talk
 * A demo JUCE VST Envelope Filter
 * Tested on Windows only.
 * Written in Visual C++ 2022.
