@@ -1,5 +1,5 @@
 # MakoSmackTalk
-A demo JUCE VST Envelope Filter
+* A demo JUCE VST Envelope Filter
 * Tested on Windows only.
 * Written in Visual C++ 2022.
 * Written for new programmers, not complicated.
@@ -42,3 +42,7 @@ The SENSE control sets when and what frequencies to apply the effect.
 The Q control adjusts the Q (width) of the filter. More Q = more Wah sound. Q also adds some volume.
 
 Between the SENSE and Q controls you have a very wide range of effect. A MIX control was also added, but should never really be needed.
+
+# JUCE ADDITIONS  
+This VST uses a predrawn PNG image to make it look fancy. The default Slider controls have also been customized using the OVERRIDE functions.
+The new Sliders have a chickenhead style knob drawn in code in our custom LOOKANDFEEL class (PluginEditor.h).
